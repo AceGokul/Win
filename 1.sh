@@ -5,3 +5,4 @@ git stash
 git log
 git log--oneline
 change pull
+fetch and merge
