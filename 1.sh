@@ -4,3 +4,4 @@ its like a solider
 git stash
 git log
 git log--oneline
+change pull
